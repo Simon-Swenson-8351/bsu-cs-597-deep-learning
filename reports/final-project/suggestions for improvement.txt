@@ -1,0 +1,2 @@
+Use softmax and pick the best two
+Don't use accuracy, just see if the best two are correct, or use F-score
